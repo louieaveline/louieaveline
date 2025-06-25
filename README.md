@@ -10,7 +10,7 @@
 - 🧠 Software engineering student  
 - 🛠️ Passion for open-source & clean code  
 - 🌐 Exploring back-end, systems & automation  
-- ☕ Coffee, cats, books and curiosity
+- ☕ Coffee, cats and books
 
 ---
 
